@@ -20,4 +20,4 @@ This assignment introduces you to GitHub fundamentals through the GitHub Skills 
    - Put URL of your finished course repo under the section "Course Repository URLs" below
 
 ## Course Repository URLs
-<!-- This section will be automatically updated by CI when students complete the course -->
+<!-- This section will be automatically updated by CI when students complete the course --> Hello
